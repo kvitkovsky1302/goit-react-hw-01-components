@@ -1,0 +1,7 @@
+.transactionRow {
+  height: 50px;
+  color: #000;
+}
+.transactionRow:nth-child(2n) {
+  background-color: #ccc;
+}

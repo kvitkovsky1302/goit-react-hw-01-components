@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import styles from './Profile.module.css';
-import Avatar from 'components/Avatar';
-import Stats from 'components/Stats';
+import Avatar from 'components/ProfileCard/Avatar';
+import Stats from 'components/ProfileCard/Stats';
 
 function Profile(props) {
   const { stats, ...avatarInfo } = props;

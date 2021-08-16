@@ -1,6 +1,5 @@
 .stats {
   display: flex;
-  /* padding: 20px; */
   justify-content: space-between;
   border-top: 1px solid #ccc;
 }
